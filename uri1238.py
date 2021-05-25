@@ -46,11 +46,3 @@ for i in range(N):
     combiner_string=combiner(cadena)
     print(combiner_string)
     
-def abreviatura(cadena):
-    palabras=cadena.split(" ")
-    print(palabras)
-    
-cadena="hoje eu visitei meus pais"
-
-
-result=abreviatura(cadena)
